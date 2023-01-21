@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lateautumn.cn/</id>
+    <title>山岸逢秋...</title>
+    <updated>2023-01-21T15:56:44.516Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>深秋</name>
+        <email>yeluoqiushen@qq.com</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://lateautumn.cn/"/>
+    <link rel="self" href="https://lateautumn.cn/feed.atom"/>
+    <subtitle>偷得浮生半日闲</subtitle>
+    <logo>https://lateautumn.cn/image/avator.jpg</logo>
+    <icon>https://lateautumn.cn/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2023 © 深秋</rights>
+    <entry>
+        <title type="html"><![CDATA[应是飞鸿踏雪泥]]></title>
+        <id>https://lateautumn.cn/posts/0811</id>
+        <link href="https://lateautumn.cn/posts/0811"/>
+        <updated>2021-08-13T12:05:20.000Z</updated>
+        <content type="html"><![CDATA[<p>其实也不知道这个在这个博客上到底做些什么,也许会写一些学习历程,一些bug吧,但是我想更多的是随便写一点东西吧,也许今天写了学习历程,下一次就写了个小故事,再下一次说不定就发一些别处看到的有趣的东西上来...........................</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021的总结]]></title>
+        <id>https://lateautumn.cn/posts/2021的总结</id>
+        <link href="https://lateautumn.cn/posts/2021的总结"/>
+        <updated>2022-01-01T00:34:10.000Z</updated>
+        <content type="html"><![CDATA[<h1>我的2021年终总结</h1>
+<p>其实仔细想想,今年其实也没做什么事,一直都在疯狂学习,疯狂学习中度过吧,今年离了一次职,也入职了一家新公司,也对今年有了一个交代吧,其实也不知道该总结一些什么,就姑且说一</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022总结]]></title>
+        <id>https://lateautumn.cn/posts/2022总结</id>
+        <link href="https://lateautumn.cn/posts/2022总结"/>
+        <updated>2022-12-27T13:14:47.000Z</updated>
+        <content type="html"><![CDATA[<p>人生到处知何似，恰似飞鸿踏雪泥</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue组件]]></title>
+        <id>https://lateautumn.cn/posts/api</id>
+        <link href="https://lateautumn.cn/posts/api"/>
+        <updated>2021-09-04T20:35:59.000Z</updated>
+        <content type="html"><![CDATA[<p>组件化:封装的思想,把页面上可重用的部分,封装为组件,从而方便项目的开发和维护<br>
+一个页面,可以拆分成一个个组件,一个组件就是一个整体,每个组件都可以有自己独立的结构样式和行为</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gitknow]]></title>
+        <id>https://lateautumn.cn/posts/gitknow</id>
+        <link href="https://lateautumn.cn/posts/gitknow"/>
+        <updated>2021-08-16T19:57:15.000Z</updated>
+        <content type="html"><![CDATA[<p>Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。 <br/></p>
+<p>想删除某段代码,又担心会出bug,那么git会记录你每次的改动,每次的迭代都会有版本,方便回退.</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[少年剑未佩妥,便已踏入江湖]]></title>
+        <id>https://lateautumn.cn/posts/hello-world</id>
+        <link href="https://lateautumn.cn/posts/hello-world"/>
+        <updated>2021-08-09T18:08:36.000Z</updated>
+        <content type="html"><![CDATA[<p>此博客于2021-08-09 18:08 正式运行</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好久不见]]></title>
+        <id>https://lateautumn.cn/posts/longTime</id>
+        <link href="https://lateautumn.cn/posts/longTime"/>
+        <updated>2022-05-28T14:13:36.000Z</updated>
+        <content type="html"><![CDATA[<center><b><font size=6>后来烟雨落盛京,一人撑伞两人行</font></b></center>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杂记]]></title>
+        <id>https://lateautumn.cn/posts/musiccase</id>
+        <link href="https://lateautumn.cn/posts/musiccase"/>
+        <updated>2021-08-30T15:13:36.000Z</updated>
+        <content type="html"><![CDATA[<p>去年今日此门中<br>
+人面桃花相印红<br>
+人面不知何处去<br>
+桃花依旧笑春风</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是我的第一个页面]]></title>
+        <id>https://lateautumn.cn/posts/my-first-blog</id>
+        <link href="https://lateautumn.cn/posts/my-first-blog"/>
+        <updated>2021-08-09T17:42:16.000Z</updated>
+        <content type="html"><![CDATA[<p><s>害,不知道改写些什么,暂时抄首诗吧,后面想到了要写什么再补上</s></p>
+<center>暮晓春来迟,</center>
+<center>先于百花知.</center>
+<center>岁岁种桃花,</center>
+<center>开在断肠时.</center>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[node]]></title>
+        <id>https://lateautumn.cn/posts/nodetest</id>
+        <link href="https://lateautumn.cn/posts/nodetest"/>
+        <updated>2021-08-20T20:34:23.000Z</updated>
+        <content type="html"><![CDATA[<p>node应该算是全栈的敲门砖吧,在往全栈的大路上又前进了一步........</p>
+<p>复习下基础语法吧,写了忘,忘了写,总会记住的....</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue]]></title>
+        <id>https://lateautumn.cn/posts/vuetest</id>
+        <link href="https://lateautumn.cn/posts/vuetest"/>
+        <updated>2021-08-29T09:35:14.000Z</updated>
+        <content type="html"><![CDATA[<p>vue是一个渐进式javascript框架,更快的处理速度,更省时间的代码工程</p>
+<p>MVVM的设计模式,通过数据驱动视图改变,通过vue内部源码操作Dom元素,达到不操作Dom,只改变数据,来达到页面变化</p>
+<p>----08.29  am</p>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[webpack打包优化]]></title>
+        <id>https://lateautumn.cn/posts/webpack打包优化</id>
+        <link href="https://lateautumn.cn/posts/webpack打包优化"/>
+        <updated>2021-09-23T09:26:09.000Z</updated>
+        <content type="html"><![CDATA[<h2>vue项目的打包上线及优化</h2>
+<blockquote>
+<p>项目完成,将项目进行上线时,为了提升性能,会进行一些优化处理</p>
+</blockquote>
+<h4>项目的常见优化</h4>
+<blockquote>
+<p>项目打包之后，会将之前所使用到的部署依赖包和项目中使用到的外部资</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[端午安康]]></title>
+        <id>https://lateautumn.cn/posts/端午安康</id>
+        <link href="https://lateautumn.cn/posts/端午安康"/>
+        <updated>2022-06-03T14:48:29.000Z</updated>
+        <content type="html"><![CDATA[<h2><strong>世界上美好的东西太多，立秋傍晚从河对岸吹来的风，和二十来岁笑起来要人命的你。</strong></h2>
+]]></content>
+        <author>
+            <name>深秋</name>
+            <email>yeluoqiushen@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-21T15:55:52.000Z</published>
+    </entry>
+</feed>

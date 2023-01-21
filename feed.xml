@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>山岸逢秋...</title>
+        <link>https://lateautumn.cn/</link>
+        <description>偷得浮生半日闲</description>
+        <lastBuildDate>Sat, 21 Jan 2023 15:56:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>山岸逢秋...</title>
+            <url>https://lateautumn.cn/image/avator.jpg</url>
+            <link>https://lateautumn.cn/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2023 © 深秋</copyright>
+        <atom:link href="https://lateautumn.cn/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[应是飞鸿踏雪泥]]></title>
+            <link>https://lateautumn.cn/posts/0811</link>
+            <guid>https://lateautumn.cn/posts/0811</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p>其实也不知道这个在这个博客上到底做些什么,也许会写一些学习历程,一些bug吧,但是我想更多的是随便写一点东西吧,也许今天写了学习历程,下一次就写了个小故事,再下一次说不定就发一些别处看到的有趣的东西上来...........................</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[2021的总结]]></title>
+            <link>https://lateautumn.cn/posts/2021的总结</link>
+            <guid>https://lateautumn.cn/posts/2021的总结</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>我的2021年终总结</h1>
+<p>其实仔细想想,今年其实也没做什么事,一直都在疯狂学习,疯狂学习中度过吧,今年离了一次职,也入职了一家新公司,也对今年有了一个交代吧,其实也不知道该总结一些什么,就姑且说一</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[2022总结]]></title>
+            <link>https://lateautumn.cn/posts/2022总结</link>
+            <guid>https://lateautumn.cn/posts/2022总结</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p>人生到处知何似，恰似飞鸿踏雪泥</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[vue组件]]></title>
+            <link>https://lateautumn.cn/posts/api</link>
+            <guid>https://lateautumn.cn/posts/api</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p>组件化:封装的思想,把页面上可重用的部分,封装为组件,从而方便项目的开发和维护<br>
+一个页面,可以拆分成一个个组件,一个组件就是一个整体,每个组件都可以有自己独立的结构样式和行为</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[gitknow]]></title>
+            <link>https://lateautumn.cn/posts/gitknow</link>
+            <guid>https://lateautumn.cn/posts/gitknow</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。 <br/></p>
+<p>想删除某段代码,又担心会出bug,那么git会记录你每次的改动,每次的迭代都会有版本,方便回退.</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[少年剑未佩妥,便已踏入江湖]]></title>
+            <link>https://lateautumn.cn/posts/hello-world</link>
+            <guid>https://lateautumn.cn/posts/hello-world</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p>此博客于2021-08-09 18:08 正式运行</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[好久不见]]></title>
+            <link>https://lateautumn.cn/posts/longTime</link>
+            <guid>https://lateautumn.cn/posts/longTime</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<center><b><font size=6>后来烟雨落盛京,一人撑伞两人行</font></b></center>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[杂记]]></title>
+            <link>https://lateautumn.cn/posts/musiccase</link>
+            <guid>https://lateautumn.cn/posts/musiccase</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p>去年今日此门中<br>
+人面桃花相印红<br>
+人面不知何处去<br>
+桃花依旧笑春风</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[这是我的第一个页面]]></title>
+            <link>https://lateautumn.cn/posts/my-first-blog</link>
+            <guid>https://lateautumn.cn/posts/my-first-blog</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p><s>害,不知道改写些什么,暂时抄首诗吧,后面想到了要写什么再补上</s></p>
+<center>暮晓春来迟,</center>
+<center>先于百花知.</center>
+<center>岁岁种桃花,</center>
+<center>开在断肠时.</center>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[node]]></title>
+            <link>https://lateautumn.cn/posts/nodetest</link>
+            <guid>https://lateautumn.cn/posts/nodetest</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p>node应该算是全栈的敲门砖吧,在往全栈的大路上又前进了一步........</p>
+<p>复习下基础语法吧,写了忘,忘了写,总会记住的....</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[vue]]></title>
+            <link>https://lateautumn.cn/posts/vuetest</link>
+            <guid>https://lateautumn.cn/posts/vuetest</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<p>vue是一个渐进式javascript框架,更快的处理速度,更省时间的代码工程</p>
+<p>MVVM的设计模式,通过数据驱动视图改变,通过vue内部源码操作Dom元素,达到不操作Dom,只改变数据,来达到页面变化</p>
+<p>----08.29  am</p>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[webpack打包优化]]></title>
+            <link>https://lateautumn.cn/posts/webpack打包优化</link>
+            <guid>https://lateautumn.cn/posts/webpack打包优化</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>vue项目的打包上线及优化</h2>
+<blockquote>
+<p>项目完成,将项目进行上线时,为了提升性能,会进行一些优化处理</p>
+</blockquote>
+<h4>项目的常见优化</h4>
+<blockquote>
+<p>项目打包之后，会将之前所使用到的部署依赖包和项目中使用到的外部资</p>
+</blockquote>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+        <item>
+            <title><![CDATA[端午安康]]></title>
+            <link>https://lateautumn.cn/posts/端午安康</link>
+            <guid>https://lateautumn.cn/posts/端午安康</guid>
+            <pubDate>Sat, 21 Jan 2023 15:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<h2><strong>世界上美好的东西太多，立秋傍晚从河对岸吹来的风，和二十来岁笑起来要人命的你。</strong></h2>
+]]></content:encoded>
+            <author>yeluoqiushen@qq.com (深秋)</author>
+        </item>
+    </channel>
+</rss>
