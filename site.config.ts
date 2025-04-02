@@ -31,12 +31,6 @@ lang: 'zh-CN',
       color: '#6e5494',
     },
     {
-      name: 'Fleet',
-      link: 'https://m.shenqiu.me',
-      icon: 'i-ri-chat-smile-2-line',
-      color: '#41F500',
-    },
-    {
       name: 'Discussion',
       link: 'https://akii.cc',
       icon: 'i-ri-discuss-line',
